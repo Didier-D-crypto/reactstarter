@@ -2,8 +2,7 @@
 ## For Your Convenience
 
 This project was created to act as an initial react project to quickly make projects.
-It was covered in my tutorial of [Creating an Organized React App](https://medium.com/swlh/creating-a-create-react-project-e0f022a229ee). 
-
+React mini project for basic starter 
 ## Getting Started
 ### Prerequisites
 - Git (duh.)
