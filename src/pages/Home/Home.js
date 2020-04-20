@@ -31,7 +31,9 @@ class Home extends React.Component {
   render() {
     return (
       <div>
-        <h2>User List:</h2>
+        <h2>User List:
+          Better User Service Directory
+        </h2>
         <ul>{this.renderUsers()}</ul>
       </div>
     );
